@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>CBlock.jpg</Source>
+      <Name>CBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHole\bin\x86\Debug\Content\CBlock.xnb</Output>
+      <Time>2014-01-29T22:56:17-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Blockhole.png</Source>
+      <Name>Blockhole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHole\bin\x86\Debug\Content\Blockhole.xnb</Output>
+      <Time>2014-02-23T00:05:29-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pointer.png</Source>
+      <Name>pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHole\bin\x86\Debug\Content\pointer.xnb</Output>
+      <Time>2014-02-23T00:54:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>pointer2.png</Source>
+      <Name>pointer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHole\bin\x86\Debug\Content\pointer2.xnb</Output>
+      <Time>2014-02-25T00:17:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tinyText.spritefont</Source>
+      <Name>tinyText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHole\bin\x86\Debug\Content\tinyText.xnb</Output>
+      <Time>2014-01-29T23:18:05-06:00</Time>
+    </Item>
+    <Item>
+      <Source>scoreText.spritefont</Source>
+      <Name>scoreText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHole\bin\x86\Debug\Content\scoreText.xnb</Output>
+      <Time>2014-11-26T20:58:20.4334684-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{4FC2D61E-30C6-4124-AB50-A8F742C10573}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHoleContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHole\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHole\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHole\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-26T20:55:34.422224-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

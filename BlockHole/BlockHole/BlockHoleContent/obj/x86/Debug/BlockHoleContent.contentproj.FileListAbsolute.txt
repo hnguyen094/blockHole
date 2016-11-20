@@ -1,0 +1,5 @@
+C:\Users\Tigerhawk\Dropbox\BlockHole\BlockHole_1\BlockHole\BlockHole\BlockHoleContent\obj\x86\Debug\BlockHoleContent.contentprojResolveAssemblyReference.cache
+C:\Users\Tigerhawk\Dropbox\BlockHole\BlockHole\BlockHole\BlockHoleContent\obj\x86\Debug\BlockHoleContent.contentprojResolveAssemblyReference.cache
+C:\Users\Hung\Dropbox\BlockHole\BlockHole\BlockHole\BlockHoleContent\obj\x86\Debug\BlockHoleContent.contentprojResolveAssemblyReference.cache
+C:\Users\hung nguyen\Dropbox\BlockHole\BlockHole\BlockHole\BlockHoleContent\obj\x86\Debug\BlockHoleContent.contentprojResolveAssemblyReference.cache
+C:\Users\Hung\Dropbox\Dropbox\BlockHole\BlockHole\BlockHole\BlockHoleContent\obj\x86\Debug\BlockHoleContent.contentprojResolveAssemblyReference.cache
